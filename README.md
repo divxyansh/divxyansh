@@ -17,6 +17,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=divyansh&theme=discord&no-bg=true&no-frame=false&margin-h=0&margin-w=5)
-
-
-<div align="center">Show some ❤️ by starring some of the repositories!</div>
