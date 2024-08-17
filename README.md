@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![](https://komarev.com/ghpvc/?username=divyansh&color=009688&style=for-the-badge&label=Profile+Views)](https://abhishekkandel45.github.io/Githubprofiler/)
-🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning Django<br>👯 I’m looking to collaborate on <br>🤔 I’m looking for help with <br>💬 Ask me about <br>📫 How to reach me: divyanshtri12vedi@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: 
+🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning Django<br>👯 <br> <br>📫 How to reach me: divyanshtri12vedi@gmail.com<br>😄 Pronouns: He/His<br>⚡  
 
 
 ## 👨 Social Profiles
