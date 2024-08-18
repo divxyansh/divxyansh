@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![](https://komarev.com/ghpvc/?username=divyansh&color=009688&style=for-the-badge&label=Profile+Views)](https://abhishekkandel45.github.io/Githubprofiler/)
-o<br>📫 How to reach me: divyanshtri12vedi@gmail.com<br>😄 Pronouns: He/Him<br>
+<br>📫 How to reach me: divyanshtri12vedi@gmail.com<br>😄 Pronouns: He/Him<br>
 
 
 ## 👨 Social Profiles
